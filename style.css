@@ -1,0 +1,29 @@
+.clock{
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    color: white;
+    font-size: 5rem;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 0px 5px 2px whitesmoke;
+    box-shadow: inset 1px 1px 20px 10px rgb(81, 29, 129);
+}
+
+body{
+    background-color: #212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+}
+h1{
+    color: aliceblue;
+    font-size: 3rem;
+    text-decoration: underline;
+    color:rgb(255, 153, 0);
+}
